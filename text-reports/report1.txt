@@ -1,0 +1,8 @@
+22 total mutants.
+7 mutants survived.
+1 mutants timed out.
+14 mutants killed.
+Ran 1.09 tests per mutant on average.
+Mutation score based on covered code: 68.18%
+Mutation score based on all code: 68.18%
+[2017-04-26 12:28:33.668] [INFO] Stryker - Done in 9 seconds.
